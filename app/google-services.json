@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "858947688264",
+    "firebase_url": "https://infpa-e973b.firebaseio.com",
+    "project_id": "infpa-e973b",
+    "storage_bucket": "infpa-e973b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858947688264:android:3f396b4c8f2f0bc7",
+        "android_client_info": {
+          "package_name": "org.infpa.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858947688264-n1saqcr09baq98cb5auh022g4gueo86l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.infpa.android",
+            "certificate_hash": "d772f539260ff05e5fcd8acd1262494a7a36e484"
+          }
+        },
+        {
+          "client_id": "858947688264-8spigle0p1eglaip8e4nhllhcogu8ur4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tPK5hhs6j-5h4kzvP3v9gKB0iiT6LJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858947688264-8spigle0p1eglaip8e4nhllhcogu8ur4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
